@@ -4,6 +4,7 @@ Each pet is unique, and together we strive to accelerate NFT implementation, rea
 
 15 types of pets: 15 000 generations of unique Crypto Pixel Pets</br>
 Cats: 1000</br>
+![Cats](https://github.com/Crypto-Pixel-Pets/generate-crypto-pixel-pets/blob/main/cats/Cat_gif.gif)</br> 
 ? Coming Soon: 1000 </br>
 ? Coming Soon: 1000 </br>
 ? Coming Soon: 1000 </br>
